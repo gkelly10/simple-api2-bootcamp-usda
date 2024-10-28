@@ -1,0 +1,39 @@
+.header{
+    color: green;
+    text-align: center;
+    font-size: 45px;
+    padding-top: 10px;
+}
+.bigcontainer{
+    text-align: center;
+    margin-left: 750px;
+   background-color: rgb(195, 225, 195); 
+   border: none;
+   border-radius: 30px;
+   /* height: 200px; */
+   width: 400px
+}
+.foodInput{
+    height:20px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(227, 231, 227);
+    margin-top: 53px;
+
+}
+.foodInput:hover{
+    background-color: rgb(203, 233, 203);
+    cursor: pointer;
+}
+.buttonClick{
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(227, 231, 227);
+    color:darkgreen;
+    cursor: pointer;
+    height: 38px;
+}
+.foodInfo{
+    color: darkgreen;
+    
+}
